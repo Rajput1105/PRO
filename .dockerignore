@@ -1,0 +1,10 @@
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+.ENV/
+.git
+.env
+Tds
+test
+/

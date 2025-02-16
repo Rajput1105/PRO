@@ -1,0 +1,7 @@
+.env
+__pycache__
+data
+test
+Tds
+.idea
+*.pyc
